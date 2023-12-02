@@ -2,7 +2,6 @@
 """
 Created on Wed Nov 29 16:45:32 2023
 
-@author: kamma
 """
 import csv
 import numpy as np
